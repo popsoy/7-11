@@ -1,0 +1,94 @@
+body{
+  header{
+    margin-top: 5%;
+    background: url("../assets/image/header_bg_fw.png") repeat-x 0 0;
+    text-align: center;
+    background-size: contain;
+    div{
+      display: inline-block;
+      background: white;
+      img{
+        margin: 0px 15px;
+      }
+    }
+  }
+
+   nav{
+
+     ul {
+       margin-top: 1px;
+       margin-bottom: 40px;
+       margin-right: 10%;
+       margin-left: 10%;
+       border: 2px solid #016A41;
+       list-style-type: none;
+       padding: 10px;
+
+       li {
+         float: left;
+         width: 22%;
+         text-align: center;
+         padding: 10px 0px;
+
+       }
+       li a {
+         font-size: 30px;
+         padding: 15px 10% 15px 0px;
+         color: #016A41;
+         font-weight: normal;
+         text-decoration: none;
+         position: relative;
+       }
+       li a:hover:after {
+         content: "";
+         display: block;
+         border: 10px solid transparent;
+         border-bottom-color: #016A41;
+         position: absolute;
+         left: 20%;
+
+       }
+       li:first-child {
+         text-align: left;
+         padding-left: 3%;
+       }
+
+       li:nth-child(4) {
+         text-align: right;
+         padding-right: 1%;
+       }
+     }
+     div{
+
+       clear: both;
+
+     }
+   }
+
+  div{
+    p{
+
+      text-align: center;
+      font-family: Calibri;
+      font-style: normal;
+      font-size: 35px;
+      font-weight: bold;
+
+      }
+
+    h{
+
+      margin-left: 29%;
+     font-size: 25px;
+     font-width: normal;
+  }
+
+
+}
+
+
+
+
+
+
+}

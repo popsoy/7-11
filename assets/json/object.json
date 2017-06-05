@@ -1,0 +1,32 @@
+{"pepitojamesryan01@gmail.com":[
+  {
+    "firstName":"Jay",
+    "lastName":"Diola",
+    "joined":{
+      "month":"January",
+      "day":14,
+      "year":2017
+    }
+  },
+  {
+    "firstName": "James",
+    "lastName": "Diola",
+    "joined": {
+      "month": "December",
+      "day": 25,
+      "year": 2017
+    }
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Diola",
+    "joined": {
+      "month": "August",
+      "day": 14,
+      "year": 2111
+    }
+  }
+
+
+
+]}
